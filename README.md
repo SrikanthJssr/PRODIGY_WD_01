@@ -36,5 +36,5 @@ The goal of this task is to create a visually appealing and user-friendly naviga
 
 ---
 
-## 📂 **Project Structure**
+
 
